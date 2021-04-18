@@ -15,6 +15,7 @@
 
 
 3. The prediction of sales for the 300th day is -0.24 million and -1.02 million for 500th day, which is why the red highlighted data points are below the 0 axis. However, it doesn't mean that the sales are going to be negative and it is just a mathematical prediction. If no business strategies are implemented to boost the sales, they will decrease drastically compared to Day 1.
+
 ![Fig_3-Prediction](https://user-images.githubusercontent.com/75769044/115148124-c40f3d80-a090-11eb-950a-746a66638434.png)
  
 
